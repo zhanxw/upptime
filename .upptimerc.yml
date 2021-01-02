@@ -1,9 +1,11 @@
 # Change these first
-owner: upptime # Your GitHub username
+owner: zhanxw # Your GitHub username
 repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
+  - name: zhanxw
+    url: https://zhanxw.com
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
