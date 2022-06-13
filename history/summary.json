@@ -4,18 +4,20 @@
     "url": "https://zhanxw.com",
     "icon": "https://favicons.githubusercontent.com/zhanxw.com",
     "slug": "zhanxw",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 317,
-    "timeDay": 373,
-    "timeWeek": 338,
-    "timeMonth": 301,
+    "timeDay": 143,
+    "timeWeek": 307,
+    "timeMonth": 298,
     "timeYear": 321,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-13": 0
+    }
   },
   {
     "name": "Secret Share Site",
@@ -29,12 +31,12 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 262,
-    "timeDay": 622,
-    "timeWeek": 275,
-    "timeMonth": 233,
-    "timeYear": 259,
+    "timeDay": 320,
+    "timeWeek": 304,
+    "timeMonth": 237,
+    "timeYear": 260,
     "dailyMinutesDown": {
-      "2022-06-13": 128,
+      "2022-06-13": 1419,
       "2022-06-12": 1440,
       "2022-06-11": 1440,
       "2022-06-10": 1440,
