@@ -4,19 +4,19 @@
     "url": "https://zhanxw.com",
     "icon": "https://favicons.githubusercontent.com/zhanxw.com",
     "slug": "zhanxw",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 317,
-    "timeDay": 143,
-    "timeWeek": 307,
-    "timeMonth": 298,
+    "timeDay": 190,
+    "timeWeek": 299,
+    "timeMonth": 296,
     "timeYear": 321,
     "dailyMinutesDown": {
-      "2022-06-13": 0
+      "2022-06-13": 11
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 237,
     "timeYear": 260,
     "dailyMinutesDown": {
-      "2022-06-13": 1419,
+      "2022-06-13": 1430,
       "2022-06-12": 1440,
       "2022-06-11": 1440,
       "2022-06-10": 1440,
