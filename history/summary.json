@@ -6,15 +6,15 @@
     "slug": "zhanxw",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "90.14%",
+    "uptimeDay": "94.96%",
     "uptimeWeek": "98.59%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.97%",
     "time": 317,
-    "timeDay": 185,
-    "timeWeek": 285,
-    "timeMonth": 293,
-    "timeYear": 320,
+    "timeDay": 193,
+    "timeWeek": 264,
+    "timeMonth": 287,
+    "timeYear": 321,
     "dailyMinutesDown": {
       "2022-06-14": 142
     }
@@ -31,12 +31,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 262,
-    "timeDay": 320,
-    "timeWeek": 304,
-    "timeMonth": 237,
+    "timeDay": 293,
+    "timeWeek": 335,
+    "timeMonth": 243,
     "timeYear": 260,
     "dailyMinutesDown": {
-      "2022-06-14": 198,
+      "2022-06-15": 126,
+      "2022-06-14": 1440,
       "2022-06-13": 1440,
       "2022-06-12": 1440,
       "2022-06-11": 1440,
@@ -399,8 +400,7 @@
       "2021-06-19": 1440,
       "2021-06-18": 1440,
       "2021-06-17": 1440,
-      "2021-06-16": 1440,
-      "2021-06-15": 1440
+      "2021-06-16": 1440
     }
   }
 ]
