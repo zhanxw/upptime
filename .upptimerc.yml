@@ -6,6 +6,10 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: zhanxw
     url: https://zhanxw.com
+  - name: omics
+    url: https://omics.rocks
+  - name: gene work
+    url: https://gene.work
   - name: Secret Share Site
     url: $SECRET_SITE
 
