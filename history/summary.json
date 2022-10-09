@@ -6,14 +6,14 @@
     "slug": "zhanxw",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.34%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 316,
-    "timeDay": 315,
-    "timeWeek": 527,
-    "timeMonth": 344,
+    "timeDay": 225,
+    "timeWeek": 501,
+    "timeMonth": 347,
     "timeYear": 319,
     "dailyMinutesDown": {
       "2022-10-07": 24,
@@ -37,7 +37,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-08": 127,
+      "2022-10-09": 153,
+      "2022-10-08": 1440,
       "2022-10-07": 1440,
       "2022-10-06": 1440,
       "2022-10-05": 1440,
@@ -94,7 +95,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-08": 127,
+      "2022-10-09": 153,
+      "2022-10-08": 1440,
       "2022-10-07": 1440,
       "2022-10-06": 1440,
       "2022-10-05": 1440,
@@ -140,18 +142,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-share-site",
     "status": "down",
-    "uptime": "1.41%",
+    "uptime": "1.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 257,
-    "timeDay": 121,
-    "timeWeek": 225,
-    "timeMonth": 271,
+    "timeDay": 189,
+    "timeWeek": 233,
+    "timeMonth": 267,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2022-10-08": 127,
+      "2022-10-09": 153,
+      "2022-10-08": 1440,
       "2022-10-07": 1440,
       "2022-10-06": 1440,
       "2022-10-05": 1440,
@@ -514,8 +517,7 @@
       "2021-10-13": 1440,
       "2021-10-12": 1440,
       "2021-10-11": 1440,
-      "2021-10-10": 1440,
-      "2021-10-09": 1440
+      "2021-10-10": 1440
     }
   }
 ]
