@@ -2,19 +2,19 @@
   {
     "name": "zhanxw",
     "url": "https://zhanxw.com",
-    "icon": "https://favicons.githubusercontent.com/zhanxw.com",
+    "icon": "https://icons.duckduckgo.com/ip3/zhanxw.com.ico",
     "slug": "zhanxw",
     "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.76%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 315,
-    "timeDay": 374,
-    "timeWeek": 256,
+    "time": 314,
+    "timeDay": 168,
+    "timeWeek": 227,
     "timeMonth": 344,
-    "timeYear": 317,
+    "timeYear": 316,
     "dailyMinutesDown": {
       "2022-10-07": 24,
       "2022-06-14": 142
@@ -23,7 +23,7 @@
   {
     "name": "omics",
     "url": "https://omics.rocks",
-    "icon": "https://favicons.githubusercontent.com/omics.rocks",
+    "icon": "https://icons.duckduckgo.com/ip3/omics.rocks.ico",
     "slug": "omics",
     "status": "down",
     "uptime": "0.00%",
@@ -37,7 +37,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-14": 165,
+      "2022-10-15": 160,
+      "2022-10-14": 1440,
       "2022-10-13": 1440,
       "2022-10-12": 1440,
       "2022-10-11": 1440,
@@ -86,7 +87,7 @@
   {
     "name": "gene work",
     "url": "https://gene.work",
-    "icon": "https://favicons.githubusercontent.com/gene.work",
+    "icon": "https://icons.duckduckgo.com/ip3/gene.work.ico",
     "slug": "gene-work",
     "status": "down",
     "uptime": "0.00%",
@@ -100,7 +101,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-14": 165,
+      "2022-10-15": 160,
+      "2022-10-14": 1440,
       "2022-10-13": 1440,
       "2022-10-12": 1440,
       "2022-10-11": 1440,
@@ -149,7 +151,7 @@
   {
     "name": "Secret Share Site",
     "url": "$SECRET_SITE",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-share-site",
     "status": "down",
     "uptime": "1.39%",
@@ -158,12 +160,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 257,
-    "timeDay": 121,
-    "timeWeek": 230,
-    "timeMonth": 270,
+    "timeDay": 340,
+    "timeWeek": 262,
+    "timeMonth": 269,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2022-10-14": 165,
+      "2022-10-15": 160,
+      "2022-10-14": 1440,
       "2022-10-13": 1440,
       "2022-10-12": 1440,
       "2022-10-11": 1440,
@@ -526,8 +529,7 @@
       "2021-10-19": 1440,
       "2021-10-18": 1440,
       "2021-10-17": 1440,
-      "2021-10-16": 1440,
-      "2021-10-15": 1440
+      "2021-10-16": 1440
     }
   }
 ]
