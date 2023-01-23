@@ -10,12 +10,14 @@ sites:
     url: https://omics.rocks
   - name: gene work
     url: https://gene.work
-  - name: Secret Share Site
-    url: $SECRET_SITE
   - name: IsoAnalytics
     url: https://cdc.biohpc.swmed.edu/isoplexis/
   - name: ScopeViewer
     url: https://cdc.biohpc.swmed.edu/scopeviewer/
+  - name: QBRC main site
+    url: https://qbrc.swmed.edu
+  - name: VAMPr: VAriant Mapping and Prediction of antimicrobial resistance 
+    https://cdc.biohpc.swmed.edu/VAMPr/VAMPr.cgi  
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -24,8 +26,8 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Service status by Zhan lab, provided by **Upptime** and GitHub."
+  introMessage: This lists the main services or resources related to my research. 
   navbar:
     - title: Status
       href: /
