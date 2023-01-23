@@ -4,9 +4,9 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: zhanxw
+  - name: zhanxw main site
     url: https://zhanxw.com
-  - name: omics
+  - name: Omics Rocks
     url: https://omics.rocks
   - name: gene work
     url: https://gene.work
