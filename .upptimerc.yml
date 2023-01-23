@@ -16,7 +16,7 @@ sites:
     url: https://cdc.biohpc.swmed.edu/scopeviewer/
   - name: QBRC main site
     url: https://qbrc.swmed.edu
-  - name: VAMPr: VAriant Mapping and Prediction of antimicrobial resistance 
+  - name: VAMPr VAriant Mapping and Prediction of antimicrobial resistance 
     url: https://cdc.biohpc.swmed.edu/VAMPr/VAMPr.cgi  
   - name: Omics Rocks
     url: https://omics.rocks
