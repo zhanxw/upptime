@@ -17,7 +17,9 @@ sites:
   - name: QBRC main site
     url: https://qbrc.swmed.edu
   - name: VAMPr: VAriant Mapping and Prediction of antimicrobial resistance 
-    https://cdc.biohpc.swmed.edu/VAMPr/VAMPr.cgi  
+    url: https://cdc.biohpc.swmed.edu/VAMPr/VAMPr.cgi  
+  - name: Omics Rocks
+    url: https://omics.rocks
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
