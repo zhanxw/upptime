@@ -1,7 +1,7 @@
 url: https://cdc.biohpc.swmed.edu/scopeviewer/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-09-21T09:34:57.489Z
+status: up
+code: 200
+responseTime: 39
+lastUpdated: 2024-09-21T09:46:11.257Z
 startTime: 2023-01-23T16:06:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
