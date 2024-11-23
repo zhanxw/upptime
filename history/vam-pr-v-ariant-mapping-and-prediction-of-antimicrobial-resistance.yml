@@ -1,7 +1,7 @@
 url: https://cdc.biohpc.swmed.edu/VAMPr/VAMPr.cgi
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-11-23T04:20:29.869Z
+status: up
+code: 200
+responseTime: 413
+lastUpdated: 2024-11-23T06:30:04.109Z
 startTime: 2023-01-23T16:45:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
