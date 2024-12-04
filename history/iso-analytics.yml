@@ -1,7 +1,7 @@
 url: https://cdc.biohpc.swmed.edu/isoplexis/
-status: down
-code: 503
-responseTime: 424
-lastUpdated: 2024-12-03T23:20:45.677Z
+status: up
+code: 200
+responseTime: 290
+lastUpdated: 2024-12-04T16:42:33.980Z
 startTime: 2023-01-23T16:06:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
