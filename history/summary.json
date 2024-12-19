@@ -11,9 +11,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.96%",
     "time": 224,
-    "timeDay": 199,
-    "timeWeek": 242,
-    "timeMonth": 226,
+    "timeDay": 331,
+    "timeWeek": 260,
+    "timeMonth": 232,
     "timeYear": 224,
     "dailyMinutesDown": {
       "2024-12-03": 19,
@@ -38,9 +38,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 330,
-    "timeDay": 296,
-    "timeWeek": 293,
-    "timeMonth": 508,
+    "timeDay": 170,
+    "timeWeek": 251,
+    "timeMonth": 504,
     "timeYear": 339,
     "dailyMinutesDown": {
       "2024-12-06": 23,
@@ -55,16 +55,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/gene.work.ico",
     "slug": "gene-work",
     "status": "up",
-    "uptime": "82.52%",
+    "uptime": "82.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 203,
-    "timeDay": 79,
-    "timeWeek": 165,
-    "timeMonth": 194,
-    "timeYear": 192,
+    "timeDay": 415,
+    "timeWeek": 183,
+    "timeMonth": 205,
+    "timeYear": 193,
     "dailyMinutesDown": {
       "2024-04-30": 25
     }
@@ -75,14 +75,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdc.biohpc.swmed.edu.ico",
     "slug": "iso-analytics",
     "status": "up",
-    "uptime": "78.45%",
+    "uptime": "78.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "45.36%",
-    "uptimeYear": "66.84%",
+    "uptimeMonth": "48.65%",
+    "uptimeYear": "67.11%",
     "time": 373,
-    "timeDay": 552,
-    "timeWeek": 364,
+    "timeDay": 426,
+    "timeWeek": 384,
     "timeMonth": 385,
     "timeYear": 390,
     "dailyMinutesDown": {
@@ -208,8 +208,7 @@
       "2023-12-24": 1440,
       "2023-12-23": 1440,
       "2023-12-22": 1440,
-      "2023-12-21": 1440,
-      "2023-12-20": 1440
+      "2023-12-21": 1440
     }
   },
   {
@@ -218,16 +217,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdc.biohpc.swmed.edu.ico",
     "slug": "scope-viewer",
     "status": "up",
-    "uptime": "88.91%",
+    "uptime": "88.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
-    "uptimeYear": "80.27%",
+    "uptimeYear": "80.55%",
     "time": 61,
-    "timeDay": 42,
-    "timeWeek": 41,
-    "timeMonth": 130,
-    "timeYear": 72,
+    "timeDay": 30,
+    "timeWeek": 39,
+    "timeMonth": 125,
+    "timeYear": 71,
     "dailyMinutesDown": {
       "2024-11-23": 131,
       "2024-09-21": 46,
@@ -299,8 +298,7 @@
       "2023-12-24": 1440,
       "2023-12-23": 1440,
       "2023-12-22": 1440,
-      "2023-12-21": 1440,
-      "2023-12-20": 1440
+      "2023-12-21": 1440
     }
   },
   {
@@ -315,9 +313,9 @@
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.93%",
     "time": 347,
-    "timeDay": 219,
-    "timeWeek": 323,
-    "timeMonth": 368,
+    "timeDay": 279,
+    "timeWeek": 325,
+    "timeMonth": 370,
     "timeYear": 356,
     "dailyMinutesDown": {
       "2024-11-23": 130,
@@ -339,9 +337,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 231,
-    "timeDay": 255,
-    "timeWeek": 240,
+    "time": 230,
+    "timeDay": 215,
+    "timeWeek": 236,
     "timeMonth": 270,
     "timeYear": 235,
     "dailyMinutesDown": {}
@@ -358,9 +356,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 330,
-    "timeDay": 296,
-    "timeWeek": 293,
-    "timeMonth": 508,
+    "timeDay": 170,
+    "timeWeek": 251,
+    "timeMonth": 504,
     "timeYear": 339,
     "dailyMinutesDown": {
       "2024-12-06": 23,
@@ -375,14 +373,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdc.biohpc.swmed.edu.ico",
     "slug": "mb-lrp",
     "status": "up",
-    "uptime": "79.03%",
+    "uptime": "79.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "45.36%",
-    "uptimeYear": "66.85%",
+    "uptimeMonth": "48.65%",
+    "uptimeYear": "67.13%",
     "time": 42,
-    "timeDay": 46,
-    "timeWeek": 45,
+    "timeDay": 34,
+    "timeWeek": 44,
     "timeMonth": 43,
     "timeYear": 44,
     "dailyMinutesDown": {
@@ -505,8 +503,7 @@
       "2023-12-24": 1440,
       "2023-12-23": 1440,
       "2023-12-22": 1440,
-      "2023-12-21": 1440,
-      "2023-12-20": 1440
+      "2023-12-21": 1440
     }
   }
 ]
