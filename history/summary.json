@@ -11,9 +11,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.96%",
     "time": 224,
-    "timeDay": 324,
-    "timeWeek": 265,
-    "timeMonth": 243,
+    "timeDay": 171,
+    "timeWeek": 264,
+    "timeMonth": 240,
     "timeYear": 226,
     "dailyMinutesDown": {
       "2024-12-03": 19,
@@ -38,9 +38,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 332,
-    "timeDay": 151,
-    "timeWeek": 244,
-    "timeMonth": 521,
+    "timeDay": 264,
+    "timeWeek": 241,
+    "timeMonth": 513,
     "timeYear": 340,
     "dailyMinutesDown": {
       "2024-12-06": 23,
@@ -55,16 +55,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/gene.work.ico",
     "slug": "gene-work",
     "status": "up",
-    "uptime": "82.77%",
+    "uptime": "82.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 203,
-    "timeDay": 265,
-    "timeWeek": 223,
-    "timeMonth": 216,
-    "timeYear": 193,
+    "timeDay": 139,
+    "timeWeek": 231,
+    "timeMonth": 213,
+    "timeYear": 192,
     "dailyMinutesDown": {
       "2024-04-30": 25
     }
@@ -75,15 +75,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdc.biohpc.swmed.edu.ico",
     "slug": "iso-analytics",
     "status": "up",
-    "uptime": "78.82%",
+    "uptime": "78.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "84.80%",
-    "uptimeYear": "70.12%",
+    "uptimeMonth": "84.79%",
+    "uptimeYear": "70.40%",
     "time": 377,
-    "timeDay": 279,
-    "timeWeek": 370,
-    "timeMonth": 390,
+    "timeDay": 349,
+    "timeWeek": 347,
+    "timeMonth": 389,
     "timeYear": 391,
     "dailyMinutesDown": {
       "2024-12-04": 1003,
@@ -196,8 +196,7 @@
       "2024-01-05": 1440,
       "2024-01-04": 1440,
       "2024-01-03": 1440,
-      "2024-01-02": 1440,
-      "2024-01-01": 1440
+      "2024-01-02": 1440
     }
   },
   {
@@ -206,15 +205,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdc.biohpc.swmed.edu.ico",
     "slug": "scope-viewer",
     "status": "up",
-    "uptime": "89.10%",
+    "uptime": "89.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "83.56%",
+    "uptimeYear": "83.84%",
     "time": 61,
-    "timeDay": 44,
-    "timeWeek": 38,
-    "timeMonth": 70,
+    "timeDay": 36,
+    "timeWeek": 37,
+    "timeMonth": 69,
     "timeYear": 70,
     "dailyMinutesDown": {
       "2024-11-23": 131,
@@ -275,8 +274,7 @@
       "2024-01-05": 1440,
       "2024-01-04": 1440,
       "2024-01-03": 1440,
-      "2024-01-02": 1440,
-      "2024-01-01": 1440
+      "2024-01-02": 1440
     }
   },
   {
@@ -291,9 +289,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 348,
-    "timeDay": 264,
-    "timeWeek": 266,
-    "timeMonth": 335,
+    "timeDay": 645,
+    "timeWeek": 312,
+    "timeMonth": 345,
     "timeYear": 353,
     "dailyMinutesDown": {
       "2024-11-23": 130,
@@ -316,9 +314,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 231,
-    "timeDay": 226,
-    "timeWeek": 219,
-    "timeMonth": 260,
+    "timeDay": 215,
+    "timeWeek": 217,
+    "timeMonth": 259,
     "timeYear": 235,
     "dailyMinutesDown": {}
   },
@@ -334,9 +332,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 332,
-    "timeDay": 151,
-    "timeWeek": 244,
-    "timeMonth": 521,
+    "timeDay": 264,
+    "timeWeek": 241,
+    "timeMonth": 513,
     "timeYear": 340,
     "dailyMinutesDown": {
       "2024-12-06": 23,
@@ -351,14 +349,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdc.biohpc.swmed.edu.ico",
     "slug": "mb-lrp",
     "status": "up",
-    "uptime": "79.45%",
+    "uptime": "79.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "84.80%",
-    "uptimeYear": "70.14%",
+    "uptimeYear": "70.41%",
     "time": 42,
-    "timeDay": 49,
-    "timeWeek": 42,
+    "timeDay": 42,
+    "timeWeek": 41,
     "timeMonth": 43,
     "timeYear": 44,
     "dailyMinutesDown": {
@@ -469,8 +467,7 @@
       "2024-01-05": 1440,
       "2024-01-04": 1440,
       "2024-01-03": 1440,
-      "2024-01-02": 1440,
-      "2024-01-01": 1440
+      "2024-01-02": 1440
     }
   }
 ]
