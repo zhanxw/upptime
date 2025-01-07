@@ -1,7 +1,7 @@
 url: https://omics.rocks
-status: up
-code: 200
-responseTime: 58
-lastUpdated: 2025-01-06T23:19:42.942Z
+status: down
+code: 500
+responseTime: 1417
+lastUpdated: 2025-01-07T06:40:33.345Z
 startTime: 2023-01-23T16:45:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
