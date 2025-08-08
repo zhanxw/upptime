@@ -1,7 +1,7 @@
 url: https://cdc.biohpc.swmed.edu/mblrp/
-status: down
-code: 503
-responseTime: 37
-lastUpdated: 2025-08-08T15:32:04.680Z
+status: up
+code: 200
+responseTime: 33
+lastUpdated: 2025-08-08T16:58:04.769Z
 startTime: 2023-05-05T15:54:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
