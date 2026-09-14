@@ -16,12 +16,12 @@ sites:
     url: https://qbrc.swmed.edu
   - name: VAMPr VAriant Mapping and Prediction of antimicrobial resistance 
     url: https://cdc.biohpc.swmed.edu/VAMPr/VAMPr.cgi  
-  - name: Omics Rocks
-    url: https://omics.rocks
   - name: MB.LRP
     url: https://cdc.biohpc.swmed.edu/mblrp/
 #  - name: gene work
 #    url: https://gene.work
+#  - name: Omics Rocks
+#    url: https://omics.rocks
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
