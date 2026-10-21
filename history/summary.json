@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/omics.rocks.ico",
     "slug": "omics-rocks",
     "status": "down",
-    "uptime": "71.68%",
+    "uptime": "71.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-21": 253,
+      "2026-10-21": 1085,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
       "2026-10-18": 1440,
@@ -407,7 +407,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdc.biohpc.swmed.edu.ico",
     "slug": "iso-analytics",
     "status": "up",
-    "uptime": "87.49%",
+    "uptime": "87.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -433,7 +433,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdc.biohpc.swmed.edu.ico",
     "slug": "scope-viewer",
     "status": "up",
-    "uptime": "94.35%",
+    "uptime": "94.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -450,9 +450,9 @@
     "url": "https://qbrc.swmed.edu",
     "icon": "https://icons.duckduckgo.com/ip3/qbrc.swmed.edu.ico",
     "slug": "qbrc-main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -461,7 +461,9 @@
     "timeWeek": 363,
     "timeMonth": 327,
     "timeYear": 333,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-21": 0
+    }
   },
   {
     "name": "VAMPr VAriant Mapping and Prediction of antimicrobial resistance",
